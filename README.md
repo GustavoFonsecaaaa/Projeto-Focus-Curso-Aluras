@@ -25,4 +25,4 @@ Neste projeto, apliquei conhecimentos fundamentais de desenvolvimento web:
 * **Gerenciamento de Áudio:** Utilização da API de áudio nativa do navegador para efeitos sonoros.
 
 ---
-Desenvolvido por [Seu Nome] durante a trilha de Front-end da Alura.
+Desenvolvido por Gustavo Venâncio Fonseca durante a trilha de Front-end da Alura.
